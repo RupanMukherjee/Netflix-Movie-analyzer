@@ -1,5 +1,5 @@
-Python
-Matplotlib
-Numpy
-Seaborn
-Pandas
+python
+matplotlib
+numpy
+seaborn
+pandas
